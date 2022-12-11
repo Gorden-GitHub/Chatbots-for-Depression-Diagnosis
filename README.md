@@ -16,6 +16,7 @@ xushengzhe2021de@163.com
 + **Existing Code Fragments:**
 + **Utilized libraries:**
 
+  https://github.com/Gorden-GitHub/Chatbots-for-Depression-Diagnosis/blob/main/requirements.txt
 
 + **Contributions:**
   - Guangdeng Liang was responsible for adding the database details and building the model.
