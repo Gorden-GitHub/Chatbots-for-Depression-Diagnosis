@@ -4,10 +4,10 @@ Data Science for Text Analytics Project
 ## 1 General Submission Guildelines
 + **Title:** Chatbots for Depression Diagnosis
 + **Team Members:** \
-Changjing Hu, 3707220, Scientific computing changjing.hu@stud.uni-heidelberg.de\
-Xinyu Liang, 3770373, Scientific computing xinyu.liang@stud.uni-heidelberg.de\
-Guangdeng Liang, 3769325, Data and computer science gorden.ggm@gmail.com\
-Shengzhe Xu, 3769534, Data and computer science xushengzhe2021de@163.com
+Changjing Hu, 3707220, Scientific computing\
+Xinyu Liang, 3770373, Scientific computing\
+Guangdeng Liang, 3769325, Data and computer science\
+Shengzhe Xu, 3769534, Data and computer science
 + **Mail Addresses:**\
 changjing.hu@stud.uni-heidelberg.de\
 xinyu.liang@stud.uni-heidelberg.de\
