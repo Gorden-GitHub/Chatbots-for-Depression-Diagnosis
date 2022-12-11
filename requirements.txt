@@ -1,4 +1,5 @@
-TFAutoModelForSequenceClassification, AutoTokenizer
+TFAutoModelForSequenceClassification
+AutoTokenizer
 tensorflow
 nltk
 pandas
